@@ -1,0 +1,29 @@
+"*":
+  core:
+    disabledPackages: [
+      "fonts"
+      "Handlebars"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontFamily: "Panic Sans"
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "213cf08d-f3ba-d819-f3cb-7eadff685189"
+  fonts:
+    fontFamily: "Inconsolata"
+  "linter-ui-default": {}
+  "one-dark-ui": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+".jade.source":
+  editor:
+    tabLength: 4

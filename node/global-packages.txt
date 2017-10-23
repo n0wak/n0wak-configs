@@ -1,0 +1,13 @@
+/usr/local/lib
+├── @angular/cli@1.0.1
+├── bower@1.8.0
+├── grunt@1.0.1
+├── gulp@3.9.1
+├── gulp-cli@1.2.2
+├── npm@5.4.2
+├── npm-check-updates@2.8.2
+├── polymer-cli@0.17.0
+├── vue-cli@2.5.0
+├── web-server-cli@2.0.1
+└── yo@1.8.5
+
